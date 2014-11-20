@@ -1,3 +1,5 @@
+'use strict';
+
 var StringCalc = require('../lib/string_calc');
 
 describe('StringCalc', function () {
