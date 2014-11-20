@@ -6,5 +6,6 @@
 	"maxlen": 80,
 	"trailing": true,
 	"curly": true,
-	"node": true
+	"node": true,
+	"jasmine": true
 }
